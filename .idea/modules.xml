@@ -23,6 +23,8 @@
       <module fileurl="file://$PROJECT_DIR$/_01-排序/_01-排序.iml" filepath="$PROJECT_DIR$/_01-排序/_01-排序.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02-并查集/_02-并查集.iml" filepath="$PROJECT_DIR$/_02-并查集/_02-并查集.iml" />
       <module fileurl="file://$PROJECT_DIR$/_03-图/_03-图.iml" filepath="$PROJECT_DIR$/_03-图/_03-图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04-递归/_04-递归.iml" filepath="$PROJECT_DIR$/_04-递归/_04-递归.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05-回溯/_05-回溯.iml" filepath="$PROJECT_DIR$/_05-回溯/_05-回溯.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algorithm.iml" filepath="$PROJECT_DIR$/.idea/algorithm.iml" />
     </modules>
   </component>
